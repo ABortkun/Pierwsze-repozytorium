@@ -1,0 +1,13 @@
+C:\Users\bortk\Desktop\git2\Pierwsze-repozytorium\Kurs z CSharp\Kurs z CSharp\bin\Debug\netcoreapp3.1\Kurs z CSharp.exe
+C:\Users\bortk\Desktop\git2\Pierwsze-repozytorium\Kurs z CSharp\Kurs z CSharp\bin\Debug\netcoreapp3.1\Kurs z CSharp.deps.json
+C:\Users\bortk\Desktop\git2\Pierwsze-repozytorium\Kurs z CSharp\Kurs z CSharp\bin\Debug\netcoreapp3.1\Kurs z CSharp.runtimeconfig.json
+C:\Users\bortk\Desktop\git2\Pierwsze-repozytorium\Kurs z CSharp\Kurs z CSharp\bin\Debug\netcoreapp3.1\Kurs z CSharp.runtimeconfig.dev.json
+C:\Users\bortk\Desktop\git2\Pierwsze-repozytorium\Kurs z CSharp\Kurs z CSharp\bin\Debug\netcoreapp3.1\Kurs z CSharp.dll
+C:\Users\bortk\Desktop\git2\Pierwsze-repozytorium\Kurs z CSharp\Kurs z CSharp\bin\Debug\netcoreapp3.1\Kurs z CSharp.pdb
+C:\Users\bortk\Desktop\git2\Pierwsze-repozytorium\Kurs z CSharp\Kurs z CSharp\obj\Debug\netcoreapp3.1\Kurs z CSharp.csproj.AssemblyReference.cache
+C:\Users\bortk\Desktop\git2\Pierwsze-repozytorium\Kurs z CSharp\Kurs z CSharp\obj\Debug\netcoreapp3.1\Kurs z CSharp.AssemblyInfoInputs.cache
+C:\Users\bortk\Desktop\git2\Pierwsze-repozytorium\Kurs z CSharp\Kurs z CSharp\obj\Debug\netcoreapp3.1\Kurs z CSharp.AssemblyInfo.cs
+C:\Users\bortk\Desktop\git2\Pierwsze-repozytorium\Kurs z CSharp\Kurs z CSharp\obj\Debug\netcoreapp3.1\Kurs z CSharp.csproj.CoreCompileInputs.cache
+C:\Users\bortk\Desktop\git2\Pierwsze-repozytorium\Kurs z CSharp\Kurs z CSharp\obj\Debug\netcoreapp3.1\Kurs z CSharp.dll
+C:\Users\bortk\Desktop\git2\Pierwsze-repozytorium\Kurs z CSharp\Kurs z CSharp\obj\Debug\netcoreapp3.1\Kurs z CSharp.pdb
+C:\Users\bortk\Desktop\git2\Pierwsze-repozytorium\Kurs z CSharp\Kurs z CSharp\obj\Debug\netcoreapp3.1\Kurs z CSharp.genruntimeconfig.cache

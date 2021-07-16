@@ -7,7 +7,8 @@ namespace Kurs_z_CSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Adam!");
+            string x = "Adam";
+            Console.WriteLine("Hello " + x + "!");
         }
     }
 }
